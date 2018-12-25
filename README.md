@@ -1,3 +1,4 @@
 # hello-world
-It's a trial repository
+It's a trial repository.
+
 Have a good day.
